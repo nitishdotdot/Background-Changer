@@ -10,7 +10,8 @@ A simple interactive web app that toggles the background color of the page betwe
 
 ## 📸 Screenshot
 
-![Background Changer Screenshot](./screenshot1.png),(./screenshot2.png)
+![Background Changer Screenshot](./screenshot1.png) 
+![Background Changer Screenshot](./screenshot2.png)
 
 > _Make sure the image file `screenshot.png` is in the same directory as your `README.md` file._
 
