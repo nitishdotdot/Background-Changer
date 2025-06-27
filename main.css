@@ -1,0 +1,52 @@
+.div0{
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      height: 100vh;
+    }
+    .div1{
+     
+      background-color:#e72424;
+      width: 500px;
+      height:200px;
+      border-radius: 100px;
+ 
+     
+    }
+
+    h1{
+        color:red;
+        text-align: center;
+        text-decoration: underline;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .div2{
+      width: 150px;
+      height:150px;
+      border-radius: 90px;
+      background-color: aqua;
+      margin-top: 25px;
+      margin-left: 25px;
+    justify-content: center;
+      align-items: center;
+      display: flex;
+      cursor: pointer;
+      
+ 
+    }
+    .div2.active{
+transform: translateX(305px)
+    }
+    body{
+        background-color:white;
+    }
+    body.bgchanged{
+        background-color: black;
+    }
+    
+    span{
+      text-align: center;
+       display: inline-block;
+      font-size: 50px;
+    }
+  
